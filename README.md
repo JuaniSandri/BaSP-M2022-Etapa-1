@@ -1,4 +1,4 @@
-# Readme Problematica 02
+# Week 02
 ## This is our first step on coding the structure of a landing page with HTML
 
 ### Description
@@ -26,6 +26,13 @@ For this created the file index.html where coding all the landing page structure
 
 5. In each checkpoint of our progress we saved in the GitHub Repository with a commit that explain the changes through commands in git
 ```
+# Week 03
+## Fisrt steps in CSS
+
+### Description
+
+We add style to our landing page
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
