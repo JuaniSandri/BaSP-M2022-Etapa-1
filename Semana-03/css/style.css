@@ -1,6 +1,6 @@
 .btn-blk1 {
   position: relative;
-  left: 0;
+  margin: 30px 0 0 100px;
   border: 3px solid #aace9b;
   border-radius: 30px;
   color: black;
@@ -10,29 +10,38 @@
   font-size: 16px;
   font-style: normal;
 }
-#img1{
-  position: relative;
-  float: right;
-  top: 0;
-  width: 50%;
-}
 #p-blk1{
-  float: left;
-  width: 250px;
+  position: relative;
+  margin: 50px;
+  width: 35%;
   font-size: 100%;
   line-height: 30px;
+  padding: 30px;
 }
 #title-blk1{
-  max-width: 200px;
-  margin: 0;
-  padding: 0;
+  margin:40px 0 0 40px;
+  position: relative;
+  left: 100px;
+  width: 150px;
   line-height: 30px;
   font-size: 200%;
+  text-align: center;
 }
-.blk1{
-  display: inline-block;
+.left{
   position: relative;
+  margin: 60px 0 0 10px;
+  padding: 40px 0 0 0;
   left: 10%;
-  margin: 50px;
-  padding: 20px 0 0 30px;
+  background-image:url('../img/main-section.png');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+  width: 90%;
+}
+.side{
+  position: fixed;
+  top: 60px;
+  height: 100%;
+  width: 15%;
+  background-color: #ededed;
 }
