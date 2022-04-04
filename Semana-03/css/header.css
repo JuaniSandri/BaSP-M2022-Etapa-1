@@ -1,0 +1,39 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+.main-header{
+    top: 0px;
+    left: 40px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.sidebar-header{
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    box-sizing: border-box;
+    font: normal;
+    word-spacing: 70px;
+}
+.search-header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 20px;
+    padding: 20px;
+    background-color: #c4c4c4;
+}
+.block-header{
+    position: absolute;
+    top: 0;
+    left: 20%;
+    height: 20px;
+    right: 0;
+    padding: 20px;
+    background-color: #aace9b;
+}
+header{
+    display: block;
+}
