@@ -17,15 +17,6 @@ a{
     font: normal;
     word-spacing: 70px;
 }
-.search-header{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 15%;
-    height: 20px;
-    padding: 20px;
-    background-color: #c4c4c4;
-}
 .block-header{
     position: absolute;
     top: 0;
@@ -34,9 +25,4 @@ a{
     right: 0;
     padding: 20px;
     background-color: #aace9b;
-}
-header{
-    display: block;
-    margin: 20px;
-    font-family: Arial, Helvetica, sans-serif;
 }

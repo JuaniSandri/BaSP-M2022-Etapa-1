@@ -7,8 +7,7 @@
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  font-size: 16px;
-  font-style: normal;
+  font-size: 16px;;
 }
 #p-blk1{
   position: relative;
@@ -22,9 +21,10 @@
   margin:40px 0 0 40px;
   position: relative;
   left: 100px;
-  width: 150px;
-  line-height: 30px;
-  font-size: 200%;
+  width: 200px;
+  line-height: 40px;
+  font-size: 42px;
+  font-weight: bold;
   text-align: center;
 }
 .left{
@@ -44,4 +44,103 @@
   height: 100%;
   width: 15%;
   background-color: #ededed;
+}
+.search-header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 12.1%;
+  height: 20px;
+  padding: 20px;
+  background-color: #c4c4c4;
+}
+.function{
+  float: right;
+  width: 50%;
+  margin-bottom: 20px;
+}
+.tittle{
+  position: relative;
+  left: 0px;
+  width: 200px;
+  margin: 30px 30px 30px 0;
+  border-bottom: 4px solid #aace9b;
+  font-size: 42px;
+  font-weight: bold;
+}
+.subtittle{
+  margin: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.block-rigth{
+  width: 15%;
+}
+.block-left{
+  float: right;
+  width: 50%;
+}
+.block{
+  float: right;
+  width: 82%;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.btn-asset {
+  margin: 30px 0 30px 0;
+  border: none;
+  width: 95px;
+  height: 31px;
+  border-radius: 5px;
+  color: black;
+  background-color: #aace9b;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#block-left2{
+  float: left;
+  width: 40%;
+}
+#block-left1{
+  padding-left: 100px;
+  width: 50%;
+  border-left: solid 1px gray;
+}
+#p-rigth-asset{
+  width: 100px;
+}
+.form1{
+  width: 1000px;
+}
+#p-aboutus{
+  width: 85%;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 50px;
+  text-align: left;
+}
+.tittle-list{
+  display: inline-block;
+  right: 40px;
+  width: 200px;
+  margin: 30px 80px 30px 100px;
+  font-size: 38px;
+  font-weight: bold;
+  border-bottom: 4px solid #aace9b;
+  text-align: center;
+}
+.content-list{
+  display: inline-block;
+  right: 40px;
+  width: 2000px;
+  margin: 30px 80px 30px 100px;
+}
+.content{
+  float: left;
+  width: 20%;
+  margin-left: 37px;
 }
