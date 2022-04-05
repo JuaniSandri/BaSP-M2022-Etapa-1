@@ -1,9 +1,7 @@
-a{
-    text-decoration: none;
-    color: black;
-}
 .main-header{
-    top: 0px;
+    position: absolute;
+    margin-bottom: 20px;
+    top: 10px;
     left: 40px;
     font-size: 40px;
     font-weight: bolder;
@@ -11,14 +9,18 @@ a{
 }
 .sidebar-header{
     position: absolute;
+    float: right;
     top: 20px;
-    right: 5px;
+    right: 100px;
     box-sizing: border-box;
     font: normal;
     word-spacing: 70px;
+    text-transform: uppercase;
 }
 .block-header{
     position: absolute;
+    float: right;
+    width: 85%;
     top: 0;
     left: 15%;
     height: 20px;
