@@ -190,6 +190,56 @@
   line-height: 50px;
   text-align: left;
 }
+form{
+  position: relative;
+}
+.form1-left{
+  position: relative ;
+  left: 0;
+  width: 100%;
+}
+.form1-right{
+  position: relative;
+  top: 0;
+  left: 50%;
+  width: 100%;
+}
+.form2{
+  position: relative;
+  content: 100%;
+  margin: 20px;
+}
+.message-box{
+  position: relative;
+  width: 100%;
+}
+.btn-form{
+  position: relative;
+  margin: 30px 0 30px 0;
+  border: none;
+  width: 150px;
+  height: 31px;
+  border-radius: 5px;
+  color: black;
+  background-color: #aace9b;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.btn-reset-form{
+  position: relative;
+  margin: 30px 0 30px 0;
+  border: none;
+  width: 100px;
+  height: 31px;
+  border-radius: 5px;
+  color: black;
+  border: 3px solid #aace9b;
+  background-color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
 .block-list{
   float: right;
   width: 82%;
