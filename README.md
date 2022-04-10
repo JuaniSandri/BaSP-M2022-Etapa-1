@@ -33,6 +33,14 @@ For this created the file index.html where coding all the landing page structure
 
 We add style to our landing page
 
+# Week 04
+## Style with lex and medias querys
+
+### Description
+
+Style landing pag with flex for mobile tablet and desktop
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
